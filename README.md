@@ -1,40 +1,38 @@
 # Presentations
-Presentation videos and slides.
+My presentations, slides, and videos.
 
-## Table View
-
-|            |                                                      |
-| ---------- | ---------------------------------------------------- |
-| Event      | **DEF CON 26 (Aug 2018) Main Track**                 |
-| Title      | Tineola: Taking a Bite Out of Enterprise Blockchain  |
-| Video      | [Watch on YouTube][tineola-video]                    |
-| Slides     | [PDF on GitHub][tineola-slides]                      |
-| Whitepaper | [PDF on GitHub][tineola-whitepaper]                  |
-| Code       | [github.com/tineola/tineola][tineola-code]           |
-|            |                                                      |
-| Event      | **DEF CON 28 (Aug 2020) AppSec Village**             |
-| Title      | localghost: Escaping Browser Sandbox Without 0-Days  |
-| Video      | [Watch on YouTube][localghost-video]                 |
-| Slides     | [PDF on GitHub][localghost-slides]                   |
-|            |                                                      |
-| Event      | **DEF CON 33 (Aug 2025) Bug Bounty Village**         |
-| Title      | The Year of the Bounty Desktop: Bugs from Binaries   |
-| Slides     | TBD                                                  |
-| Video      | TBD                                                  |
-|            |                                                      |
-| Event      | **DEF CON 33 (Aug 2025) Hardware Hacking Village**   |
-| Title      | The Power(Point) Glove                               |
-| Slides     | TBD                                                  |
-| Video      | TBD                                                  |
-|            |                                                      |
-| Event      | **Private Presentation (Sep 2022)**                  |
-| Title      | Lost in Random: Detecting Bugs at Scale with Semgrep |
-| Slides     | [PDF on GitHub][lost-slides]                         |
-|            |                                                      |
-| Event      | **NoVA Hackers (Mar 2018)**                          |
-| Title      | Blockchain Security in 30 Minutes                    |
-| Slides     | [PDF on GitHub][bl30-slides]                         |
-
+|            |                                                       |
+| ---------- | ----------------------------------------------------- |
+| Event      | **DEF CON 26 (Aug 2018) Main Track**                  |
+| Title      | Tineola: Taking a Bite Out of Enterprise Blockchain   |
+| Video      | [Watch on YouTube][tineola-video]                     |
+| Slides     | [PDF on GitHub][tineola-slides]                       |
+| Whitepaper | [PDF on GitHub][tineola-whitepaper]                   |
+| Code       | [github.com/tineola/tineola][tineola-code]            |
+| <br/>      |                                                       |
+| Event      | **DEF CON 28 (Aug 2020) AppSec Village**              |
+| Title      | localghost: Escaping Browser Sandbox Without 0-Days   |
+| Video      | [Watch on YouTube][localghost-video]                  |
+| Slides     | [PDF on GitHub][localghost-slides]                    |
+| <br/>      |                                                       |
+| Event      | **DEF CON 33 (Aug 2025) Bug Bounty Village**          |
+| Title      | The Year of the Bounty Desktop: Bugs from Binaries    |
+| Slides     | TBD                                                   |
+| Video      | TBD                                                   |
+| <br/>      |                                                       |
+| Event      | **DEF CON 33 (Aug 2025) Hardware Hacking Village**    |
+| Title      | The Power(Point) Glove                                |
+| Slides     | TBD                                                   |
+| Code       | [github.com/parsiya/PowerPointGlove][powerglove-code] |
+| Video      | TBD                                                   |
+| <br/>      |                                                       |
+| Event      | **Private Presentation (Sep 2022)**                   |
+| Title      | Lost in Random: Detecting Bugs at Scale with Semgrep  |
+| Slides     | [PDF on GitHub][lost-slides]                          |
+| <br/>      |                                                       |
+| Event      | **NoVA Hackers (Mar 2018)**                           |
+| Title      | Blockchain Security in 30 Minutes                     |
+| Slides     | [PDF on GitHub][bl30-slides]                          |
 
 <!-- Reference Links -->
 
@@ -53,3 +51,8 @@ Presentation videos and slides.
 
 <!-- lost in random -->
 [lost-slides]: lost-in-random-semgrep/lost-in-random-semgrep.pdf
+
+<!-- powerpoint glove -->
+[powerglove-code]: https://github.com/parsiya/PowerPointGlove
+
+<!-- bugs-from-binaries -->
