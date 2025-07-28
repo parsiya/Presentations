@@ -16,6 +16,7 @@ My presentations, slides, and videos.
 | Video  | [Watch on YouTube][localghost-video]                |
 | Slides | [PDF on GitHub][localghost-slides]                  |
 
+----------
 
 | Title  | The Year of the Bounty Desktop: Bugs from Binaries |
 | ------ | -------------------------------------------------- |
@@ -23,6 +24,7 @@ My presentations, slides, and videos.
 | Slides | TBD                                                |
 | Video  | TBD                                                |
 
+----------
 
 | Title  | The Power(Point) Glove                                |
 | ------ | ----------------------------------------------------- |
@@ -31,12 +33,14 @@ My presentations, slides, and videos.
 | Code   | [github.com/parsiya/PowerPointGlove][powerglove-code] |
 | Video  | TBD                                                   |
 
+----------
 
 | Title  | Lost in Random: Detecting Bugs at Scale with Semgrep |
 | ------ | ---------------------------------------------------- |
 | Event  | Private Presentation (Sep 2022)                      |
 | Slides | [PDF on GitHub][lost-slides]                         |
 
+----------
 
 | Title  | Blockchain Security in 30 Minutes |
 | ------ | --------------------------------- |
