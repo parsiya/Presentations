@@ -19,11 +19,11 @@ My presentations, slides, and videos.
 
 ----------
 
-| Title  | The Year of the Bounty Desktop: Bugs from Binaries |
-| ------ | -------------------------------------------------- |
-| Event  | DEF CON 33 (Aug 2025) Bug Bounty Village           |
-| Slides | TBD                                                |
-| Video  | TBD                                                |
+| Title  | The Year of the Bounty Desktop: Bugs from Binaries    |
+| ------ | ----------------------------------------------------- |
+| Event  | DEF CON 33 (Aug 2025) Bug Bounty Village              |
+| Slides | [All Slides including hidden on GitHub][bb-33-slides] |
+| Video  | TBD                                                   |
 
 ----------
 
@@ -70,3 +70,4 @@ My presentations, slides, and videos.
 [powerglove-code]: https://github.com/parsiya/PowerPointGlove
 
 <!-- bugs-from-binaries -->
+[bb-33-slides]: defcon-33-bugs-binaries/defcon-33-bugs-binaries-all-slides.pdf
