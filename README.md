@@ -3,7 +3,7 @@ My presentations, slides, and videos.
 
 ## <a id="tineola"></a>Tineola: Taking a Bite Out of Enterprise Blockchain
 
-| Event      | DEF CON 26 (Aug 2018) Main Stage           |
+|            | DEF CON 26 (Aug 2018) Main Stage           |
 | ---------- | ------------------------------------------ |
 | Video      | [Watch on YouTube][tineola-video]          |
 | Slides     | [PDF on GitHub][tineola-slides]            |
@@ -12,7 +12,7 @@ My presentations, slides, and videos.
 
 ----------
 
-## <a id="localghost">localghost: Escaping Browser Sandbox Without 0-Days<a/>
+## <a id="localghost"></a>localghost: Escaping Browser Sandbox Without 0-Days
 
 |        |                                      |
 | ------ | ------------------------------------ |
@@ -22,7 +22,7 @@ My presentations, slides, and videos.
 
 ----------
 
-## <a id="bugs-binaries" />The Year of the Bounty Desktop: Bugs from Binaries
+## <a id="bugs-binaries"></a>The Year of the Bounty Desktop: Bugs from Binaries
 
 |        |                                            |
 | ------ | ------------------------------------------ |
@@ -32,7 +32,7 @@ My presentations, slides, and videos.
 
 ----------
 
-## <a id="powerglove" />The Power(Point) Glove 
+## <a id="powerglove"><a/>The Power(Point) Glove
 
 |        |                                                                  |
 | ------ | ---------------------------------------------------------------- |
