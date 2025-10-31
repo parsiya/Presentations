@@ -1,11 +1,10 @@
 # Presentations
 My presentations, slides, and videos.
 
-## Tineola: Taking a Bite Out of Enterprise Blockchain
+## <a id="tineola" />Tineola: Taking a Bite Out of Enterprise Blockchain
 
-|            |                                            |
+| Event      | DEF CON 26 (Aug 2018) Main Stage           |
 | ---------- | ------------------------------------------ |
-| Event      | DEF CON 26 (Aug 2018) Main Track           |
 | Video      | [Watch on YouTube][tineola-video]          |
 | Slides     | [PDF on GitHub][tineola-slides]            |
 | Whitepaper | [PDF on GitHub][tineola-whitepaper]        |
@@ -13,7 +12,7 @@ My presentations, slides, and videos.
 
 ----------
 
-## localghost: Escaping Browser Sandbox Without 0-Days
+## <a id="localghost" />localghost: Escaping Browser Sandbox Without 0-Days
 
 |        |                                      |
 | ------ | ------------------------------------ |
@@ -23,7 +22,7 @@ My presentations, slides, and videos.
 
 ----------
 
-## The Year of the Bounty Desktop: Bugs from Binaries
+## <a id="bugs-binaries" />The Year of the Bounty Desktop: Bugs from Binaries
 
 |        |                                            |
 | ------ | ------------------------------------------ |
@@ -33,18 +32,18 @@ My presentations, slides, and videos.
 
 ----------
 
-## The Power(Point) Glove 
+## <a id="powerglove" />The Power(Point) Glove 
 
-|        |                                                                           |
-| ------ | ------------------------------------------------------------------------- |
-| Event  | DEF CON 33 (Aug 2025) Creator Stage organized by Hardware Hacking Village |
-| Video  | [Watch on YouTube][powerglove-video]                                      |
-| Slides | [Extended version on GitHub][powerglove-slides]                           |
-| Code   | [github.com/parsiya/PowerPointGlove][powerglove-code]                     |
+|        |                                                                  |
+| ------ | ---------------------------------------------------------------- |
+| Event  | DEF CON 33 (Aug 2025) Creator Stage via Hardware Hacking Village |
+| Video  | [Watch on YouTube][powerglove-video]                             |
+| Slides | [Extended version on GitHub][powerglove-slides]                  |
+| Code   | [github.com/parsiya/PowerPointGlove][powerglove-code]            |
 
 ----------
 
-## Lost in Random: Detecting Bugs at Scale with Semgrep
+## <a id="lost-in-random" />Lost in Random: Detecting Bugs at Scale with Semgrep
 
 |        |                                 |
 | ------ | ------------------------------- |
@@ -53,7 +52,7 @@ My presentations, slides, and videos.
 
 ----------
 
-## Blockchain Security in 30 Minutes 
+## <a id="blockchain-30min" />Blockchain Security in 30 Minutes 
 
 |        |                              |
 | ------ | ---------------------------- |
