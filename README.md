@@ -12,7 +12,7 @@ My presentations, slides, and videos.
 
 ----------
 
-## <a id="localghost" />localghost: Escaping Browser Sandbox Without 0-Days
+## <a id="localghost">localghost: Escaping Browser Sandbox Without 0-Days<a/>
 
 |        |                                      |
 | ------ | ------------------------------------ |
