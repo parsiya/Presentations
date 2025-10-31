@@ -35,12 +35,12 @@ My presentations, slides, and videos.
 
 ## The Power(Point) Glove 
 
-|        |                                                       |
-| ------ | ----------------------------------------------------- |
-| Event  | DEF CON 33 (Aug 2025) Hardware Hacking Village        |
-| Video  | [Watch on YouTube][powerglove-video]                  |
-| Slides | [Extended version on GitHub][powerglove-slides]       |
-| Code   | [github.com/parsiya/PowerPointGlove][powerglove-code] |
+|        |                                                                           |
+| ------ | ------------------------------------------------------------------------- |
+| Event  | DEF CON 33 (Aug 2025) Creator Stage organized by Hardware Hacking Village |
+| Video  | [Watch on YouTube][powerglove-video]                                      |
+| Slides | [Extended version on GitHub][powerglove-slides]                           |
+| Code   | [github.com/parsiya/PowerPointGlove][powerglove-code]                     |
 
 ----------
 
