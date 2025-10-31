@@ -38,9 +38,9 @@ My presentations, slides, and videos.
 |        |                                                       |
 | ------ | ----------------------------------------------------- |
 | Event  | DEF CON 33 (Aug 2025) Hardware Hacking Village        |
+| Video  | [Watch on YouTube][powerglove-video]                  |
 | Slides | [Extended version on GitHub][powerglove-slides]       |
 | Code   | [github.com/parsiya/PowerPointGlove][powerglove-code] |
-| Video  | TBD                                                   |
 
 ----------
 
@@ -81,6 +81,7 @@ My presentations, slides, and videos.
 <!-- powerpoint glove -->
 [powerglove-code]: https://github.com/parsiya/PowerPointGlove
 [powerglove-slides]: defcon-33-powerpoint-glove/defcon-33-powerpoint-glove-all-slides.pdf
+[powerglove-video]: https://www.youtube.com/watch?v=SJ-kfVUoENk
 
 <!-- bugs-from-binaries -->
 [bb-33-slides]: defcon-33-bugs-binaries/defcon-33-bugs-binaries-all-slides.pdf
