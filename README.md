@@ -1,7 +1,7 @@
 # Presentations
 My presentations, slides, and videos.
 
-## <a id="tineola" />Tineola: Taking a Bite Out of Enterprise Blockchain
+## <a id="tineola"></a>Tineola: Taking a Bite Out of Enterprise Blockchain
 
 | Event      | DEF CON 26 (Aug 2018) Main Stage           |
 | ---------- | ------------------------------------------ |
